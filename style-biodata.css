@@ -1,0 +1,33 @@
+p {
+    color: darkorchid;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+h2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+h1 {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+#judulutama {
+    background-color:aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.highlight {
+    color:deeppink;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.hexavolt {
+    background-color: bisque;
+}
