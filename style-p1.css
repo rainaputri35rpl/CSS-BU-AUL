@@ -1,0 +1,14 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkred;
+}
+
+.highlight {
+    background-color: aqua;
+    font-weight: bold;
+}
+
+#judulutama {
+    color: chartreuse;
+    text-align: center;
+}
