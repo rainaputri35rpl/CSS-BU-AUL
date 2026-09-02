@@ -1,0 +1,80 @@
+body {
+    color: #553501;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+#header {
+    color: white;
+    font-family: Georgia, serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(255, 42, 163);
+}
+
+#menu {
+    color: hsl(20, 7%, 8%);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    background-color: #fffaf3;
+}
+
+#about {
+    color: hwb(300 9% 91%);
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    background-color: #f6e5d0;
+}
+
+#footer {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    background-color: hsl(315, 77%, 66%);
+}
+
+.slogan {
+    color: #0a0a08;
+    font-family: Georgia, serif;
+    font-size: 22px;
+    text-align: center;
+}
+
+.welcome {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.kategori {
+    color: #3d2b1f;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.menu-item {
+    color: hsl(354, 90%, 69%);
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    text-align: center;
+}
+
+
+.harga {
+    color: hsl(311, 68%, 73%);
+    font-size: 16px;
+}
+
+.menu-item:hover {
+    color: lch(56.39% 90.41 340.74);
+    font-size: 18px;
+}
+
+.menu-item:hover .harga {
+    color: rgb(213, 6, 6);
+}
